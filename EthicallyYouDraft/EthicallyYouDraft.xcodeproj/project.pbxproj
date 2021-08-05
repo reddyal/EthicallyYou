@@ -95,7 +95,7 @@
 		BD2D5EB226B9BBDF00700815 = {
 			isa = PBXGroup;
 			children = (
-				BD2D5EBD26B9BBDF00700815 /* EthicallyYouDraft */,
+				BD2D5EBD26B9BBDF00700815 /* EthicallyYouDraftUIUpdate */,
 				BD2D5ED726B9BBE000700815 /* EthicallyYouDraftTests */,
 				BD2D5EE226B9BBE000700815 /* EthicallyYouDraftUITests */,
 				BD2D5EBC26B9BBDF00700815 /* Products */,
@@ -112,7 +112,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BD2D5EBD26B9BBDF00700815 /* EthicallyYouDraft */ = {
+		BD2D5EBD26B9BBDF00700815 /* EthicallyYouDraftUIUpdate */ = {
 			isa = PBXGroup;
 			children = (
 				BD2D5EBE26B9BBDF00700815 /* AppDelegate.swift */,
@@ -131,7 +131,7 @@
 				C4D7FA2A26BA39700012F69F /* ResourcesScreenViewController.swift */,
 				C4D7FA2C26BA39F50012F69F /* MiscScreenViewController.swift */,
 			);
-			path = EthicallyYouDraft;
+			path = EthicallyYouDraftUIUpdate;
 			sourceTree = "<group>";
 		};
 		BD2D5ED726B9BBE000700815 /* EthicallyYouDraftTests */ = {
