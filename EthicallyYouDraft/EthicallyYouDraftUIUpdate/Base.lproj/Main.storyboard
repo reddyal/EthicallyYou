@@ -674,7 +674,7 @@ EthicallyYouALC@gmail.com</string>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ndY-wH-xWT">
                                                         <rect key="frame" x="52" y="-279" width="303" height="451"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                        <mutableString key="text">Etee is a company that is centered around the elimination of plastic and pollution, so all of their products are completely plastic free. The packaging is 100 percent biodegradable and compostable, and they thoughtfully choose all natural ingredients. They are cruelty-free and energy-efficient, as their factory is powered by renewable energy. This choice has prevented more than 100 million plastic pieces from ending up in landfills. Etee prioritizes activism through their partnership program. They are currently partnering with Hue Man Race, an organization fighting racial inequality. They also donated 23,000 masks during the pandemic. Ette makes all of their own products, and they value the environment over all else.</mutableString>
+                                                        <string key="text">Etee is a company that is centered around the elimination of plastic and pollution, so all of their products are completely plastic free. The packaging is 100 percent biodegradable and compostable, and they thoughtfully choose all natural ingredients. They are cruelty-free and energy-efficient, as their factory is powered by renewable energy. This choice has prevented more than 100 million plastic pieces from ending up in landfills. Etee prioritizes activism through their partnership program. They are currently partnering with Hue Man Race, an organization fighting racial inequality. They also donated 23,000 masks during the pandemic. Ette makes all of their own products, and they value the environment over all else.</string>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
@@ -969,17 +969,87 @@ EthicallyYouALC@gmail.com</string>
                                                         <rect key="frame" x="148" y="60" width="119" height="44"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
-                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2021-08-04 at 5.27.22 PM" translatesAutoresizingMaskIntoConstraints="NO" id="p6C-6o-5Hw">
-                                                        <rect key="frame" x="-303" y="136" width="1020" height="1054"/>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Shein" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rMz-GA-rb4">
+                                                        <rect key="frame" x="-293" y="146" width="52" height="24"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    </imageView>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="rescoures" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eQc-xe-Kmx">
+                                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                                        <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="resources" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eQc-xe-Kmx">
                                                         <rect key="frame" x="142" y="159" width="131" height="42"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="30"/>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="(Learn More About Sustainability Here)" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bYt-iv-73V">
+                                                        <rect key="frame" x="60" y="209" width="295" height="21"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Websites" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gsJ-r3-gbT">
+                                                        <rect key="frame" x="60" y="266" width="85" height="24"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Inhabitat (Inhabitat.com)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ieT-L0-5fD">
+                                                        <rect key="frame" x="93" y="309" width="187" height="21"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Talking about everything from climate change to endangered animals, this site stresses the importance of a healthy lifestyle." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yve-AX-Sjt">
+                                                        <rect key="frame" x="115" y="309" width="278" height="137"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Recycle Coach" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ix6-uK-SWf">
+                                                        <rect key="frame" x="93" y="400" width="42" height="119"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Recycle Coach" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2yv-Je-4bG">
+                                                        <rect key="frame" x="93" y="400" width="117" height="21"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                                                        <nil key="textColor"/>
+                                                        <color key="highlightedColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Clean Tech" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W6e-r5-Vfb">
+                                                        <rect key="frame" x="60" y="478" width="98" height="24"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="This site includes information on what materials can be recycled making it easier to implement to your everyday life" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c85-0s-nHW">
+                                                        <rect key="frame" x="142" y="403" width="213" height="96"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Clean tech information on how tech companies can move towards a more resource-efficient industrial future" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="11" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sg1-pZ-caR">
+                                                        <rect key="frame" x="115" y="403" width="240" height="96"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" red="0.97503060100000005" green="0.92160236839999998" blue="0.8795324564" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2021-08-04 at 5.27.22 PM" translatesAutoresizingMaskIntoConstraints="NO" id="p6C-6o-5Hw">
+                                                        <rect key="frame" x="-303" y="146" width="1020" height="1054"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
                                                 </subviews>
                                                 <color key="backgroundColor" red="0.73725490196078436" green="0.82745098039215681" blue="0.70980392156862748" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
@@ -991,6 +1061,22 @@ EthicallyYouALC@gmail.com</string>
                                                 <subviews>
                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2021-08-04 at 5.27.22 PM" translatesAutoresizingMaskIntoConstraints="NO" id="5qJ-WZ-x4b">
                                                         <rect key="frame" x="-303" y="-227" width="1020" height="1054"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1zd-wl-n5q">
+                                                        <rect key="frame" x="-293" y="-217" width="225" height="79"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ey2" translatesAutoresizingMaskIntoConstraints="NO" id="KbZ-qf-2fp">
+                                                        <rect key="frame" x="42" y="315" width="330" height="191"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ey1" translatesAutoresizingMaskIntoConstraints="NO" id="SPV-L6-nUa">
+                                                        <rect key="frame" x="56" y="-71" width="447" height="49"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    </imageView>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ey4" translatesAutoresizingMaskIntoConstraints="NO" id="heK-5S-ewH">
+                                                        <rect key="frame" x="69" y="236" width="240" height="128"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     </imageView>
                                                 </subviews>
@@ -1133,7 +1219,7 @@ EthicallyYouALC@gmail.com</string>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZGQ-mf-zLc">
                                                         <rect key="frame" x="48" y="-72" width="319" height="518"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                        <mutableString key="text">Amazon is about 50 percent powered by fossil fuels. They destroy about 130,000 items per week— contributing to Amazon’s estimated 465 million pounds of plastic waste per year. Amazon’s employee treatment is horrible, causing stressed employees to urinate in bottles and leading to around seven deaths among Amazon workers. Employees say they’re treated like robots and that the warehouses are like sweatshops. They get paid higher than minimum wage. Their required rates are almost impossible to meet and employees may be fired for not fulfilling them. They can be punished for not working overtime, which is legally voluntary. Amazon consistently avoids taxes, sheltering their profits and paying less of the legal tax rate. They released more than 51 million metric tons of CO2 in 2019. After employee walkouts, they made an effort to overcome their negative impact by signing the Climate Pledge and committing to being carbon neutral by 2040. </mutableString>
+                                                        <string key="text">Amazon is about 50 percent powered by fossil fuels. They destroy about 130,000 items per week— contributing to Amazon’s estimated 465 million pounds of plastic waste per year. Amazon’s employee treatment is horrible, causing stressed employees to urinate in bottles and leading to around seven deaths among Amazon workers. Employees say they’re treated like robots and that the warehouses are like sweatshops. They get paid higher than minimum wage. Their required rates are almost impossible to meet and employees may be fired for not fulfilling them. They can be punished for not working overtime, which is legally voluntary. Amazon consistently avoids taxes, sheltering their profits and paying less of the legal tax rate. They released more than 51 million metric tons of CO2 in 2019. After employee walkouts, they made an effort to overcome their negative impact by signing the Climate Pledge and committing to being carbon neutral by 2040. </string>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
@@ -1159,6 +1245,11 @@ EthicallyYouALC@gmail.com</string>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="ey1" translatesAutoresizingMaskIntoConstraints="NO" id="nAa-nh-p4E">
+                                                        <rect key="frame" x="-499" y="-148" width="322" height="626"/>
+                                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                        <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="default"/>
+                                                    </imageView>
                                                 </subviews>
                                                 <color key="backgroundColor" red="0.74117654560000001" green="0.82352948189999997" blue="0.71372550729999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <constraints>
@@ -1213,8 +1304,8 @@ EthicallyYouALC@gmail.com</string>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OCI-3D-2Pb">
                                                         <rect key="frame" x="48" y="140" width="319" height="357"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                        <mutableString key="text">Ethical Superstore only sells products that involve fair trade, organic, eco friendly, education, health and wellness, locally produced, or charity. They have a policy to protect human rights and environmentally friendly policies are given to all their suppliers before they can sell the products. Spark Etail. In addition, they use recycled packaging whenever possible and try to keep energy use to a minimum. They don't test on animals and offer an option for donation with every checkout to maximize charitable giving. Their parent company, Spark Etail, values diversity and has committed to the Race at Work charter to fight for equality.
-</mutableString>
+                                                        <string key="text">Ethical Superstore only sells products that involve fair trade, organic, eco friendly, education, health and wellness, locally produced, or charity. They have a policy to protect human rights and environmentally friendly policies are given to all their suppliers before they can sell the products. Spark Etail. In addition, they use recycled packaging whenever possible and try to keep energy use to a minimum. They don't test on animals and offer an option for donation with every checkout to maximize charitable giving. Their parent company, Spark Etail, values diversity and has committed to the Race at Work charter to fight for equality.
+</string>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
@@ -1274,7 +1365,7 @@ EthicallyYouALC@gmail.com</string>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="35" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Umu-JG-kUo">
                                                         <rect key="frame" x="48" y="187" width="318" height="339"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                        <mutableString key="text">Earth Hero donates 1 percent of their sales every year towards sustainability activism and environmental initiatives, and fight for racial equality by supporting black businesses and partner with nonprofits focused on racial justice. They use Carbonfund to offset the carbon footprint of all of their product transport. Earth Hero is almost fully zero waste— they are committed to a fully zero waste office, and use eco-friendly packaging to minimize their carbon footprint. The company aims to sell products that are cruelty free, and are aware of the progress to be made in their company footprint.</mutableString>
+                                                        <string key="text">Earth Hero donates 1 percent of their sales every year towards sustainability activism and environmental initiatives, and fight for racial equality by supporting black businesses and partner with nonprofits focused on racial justice. They use Carbonfund to offset the carbon footprint of all of their product transport. Earth Hero is almost fully zero waste— they are committed to a fully zero waste office, and use eco-friendly packaging to minimize their carbon footprint. The company aims to sell products that are cruelty free, and are aware of the progress to be made in their company footprint.</string>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <color key="textColor" red="0.98039215800000001" green="0.92941176889999999" blue="0.88627451660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <nil key="highlightedColor"/>
@@ -1310,12 +1401,15 @@ EthicallyYouALC@gmail.com</string>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="BKI-5c-jK9"/>
+        <segue reference="vhy-En-cJs"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Screen Shot 2021-08-04 at 5.27.22 PM" width="146" height="432"/>
         <image name="aleena photo" width="2880" height="4320"/>
         <image name="cheyenne photo" width="999" height="1024"/>
+        <image name="ey1" width="2321" height="440"/>
+        <image name="ey2" width="2255" height="463"/>
+        <image name="ey4" width="2331" height="449"/>
         <image name="leen photo" width="1306" height="1318"/>
         <image name="line.horizontal.3" catalog="system" width="128" height="64"/>
         <image name="logo" width="566" height="202"/>
